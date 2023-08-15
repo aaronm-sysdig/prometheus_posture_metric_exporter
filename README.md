@@ -41,7 +41,7 @@ Example: `prom_posture.py --config prom_posture_config.yaml`
 2023-08-15 15:23:03 - INFO - Starting Collection Run...
 ```
 
-### Example ficticuous GET of metrics
+### Example fictitious GET of metrics
 ```
 # HELP python_gc_objects_collected_total Objects collected during gc
 # TYPE python_gc_objects_collected_total counter
